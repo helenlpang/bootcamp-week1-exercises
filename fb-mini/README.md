@@ -11,7 +11,7 @@ Now that we've planned out the structure of our database, let's build it! To all
 
   - Sign up for a free personal account [here](https://customer.elephantsql.com/login). There is also a log in with Github option.
   - Once you have signed in, click the **Create New Instance** button on the top right.
-  - Add a name, probably something like `app-name-db` and keep it on the free `Tiny Turtle` plan. You shouldn't need to add any payment information! Press **Select Region**.
+  - Add a name, probably something like `helen-fb-db` and keep it on the free `Tiny Turtle` plan. You shouldn't need to add any payment information! Press **Select Region**.
   - Select the `US-East-1` as the region and press **Review**. and then **Create Instance**.
   - This should take you back to your list of your created instances (databases). Click on the one you just made.
   - Under the Details section you should see **Server**, **User & Default database**, and **Password**. These are the credentials you need to connect to the database.
